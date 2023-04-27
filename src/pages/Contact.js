@@ -20,7 +20,7 @@ function Contact() {
     // setEmail('');
     // setMessage('');
 
-    alert('Your message was submitted Successfully. Our Team will get back to you. Appriciate your patience....')
+    alert('Your message was submitted Successfully. Our Team will get back to you. Appreciate your patience....')
   };
   return (
     <Container>
